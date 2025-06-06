@@ -15,6 +15,9 @@
                 <li>
                     <a href="edit.php">Edit</a>
                 </li>
+                <li>
+                    <a href="search.php">Cari Data Mahasiswa</a>
+                </li>
             </ul>
         </div>
     </nav>
